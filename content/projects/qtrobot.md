@@ -5,7 +5,7 @@ summary = "Using QTrobot to support children with autism spectrum disorder throu
 tags = ["robot", "education", "autism"]
 categories = ["Projects"]
 weight = 1
-featured = true
+# featured = true
 main_image = "/images/projects/qtrobot.jfif"
 showInPostList = true
 +++

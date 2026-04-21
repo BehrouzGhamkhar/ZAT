@@ -5,7 +5,7 @@ summary = "Non-intrusive sensor systems that help elderly and disabled people li
 tags = ["sensors", "iot", "independent-living", "care"]
 categories = ["Projects"]
 weight = 3
-featured = false
+# featured = false
 main_image = "/images/projects/smart_sensors.jpg"
 showInPostList = false
 +++

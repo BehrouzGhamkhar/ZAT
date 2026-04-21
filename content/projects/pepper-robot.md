@@ -5,7 +5,7 @@ summary = "Using Pepper the humanoid robot to support elderly care, rehabilitati
 tags = ["robot", "care", "elderly", "ai"]
 categories = ["Projects"]
 weight = 2
-featured = true
+# featured = true
 main_image = "/images/projects/pepper.jfif"
 showInPostList = false
 +++
