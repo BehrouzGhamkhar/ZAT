@@ -1,0 +1,48 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'ZAT Robotics'
+theme = "yassi"
+
+# [services]
+#  [services.googleAnalytics]
+#    ID = "G-XXXXXXXXXX"  # Your GA4 measurement ID
+
+[params]
+  CoverImage = "/images/avatar.svg"  # or your own image
+  CoverImageWidth = 150
+
+  # Theme Colors
+  # Accent color used for site title underline, timeline bullets, and project cards
+  accentColor = "#47b1db"  # Light blue (default)
+  accentColorDark = "#5fc9f0"  # Lighter blue for dark mode
+
+  # Project display mode
+  useProjectCarousel = true  # or false for grid
+
+  # Search
+  enableSearch = true  # Enable site search with Fuse.js
+
+  # Timeline Starting Point (optional)
+  timelineStart = "🚀 And so it begins..."
+  timelineStartSubText = "Additional context or details..."  # optional
+  timelineStartDate = "Apr 2026"  # optional
+
+  # Social Media Links
+  [params.social]
+    github = "https://github.com/BehrouzGhamkhar"
+    linkedin = "https://www.linkedin.com/company/zentrum-f%C3%BCr-assistive-technologien-rhein-ruhr/"
+    #facebook = "https://facebook.com/yourusername"
+    #instagram = "https://instagram.com/yourusername"
+    #tiktok = "https://tiktok.com/@yourusername"
+    #snapchat = "https://snapchat.com/add/yourusername"
+    youtube = "http://www.youtube.com/@ZAT-Rhein-Ruhr"
+
+  # Giscus Comments (optional)
+  [params.giscus]
+    enabled = true
+    repo = "yourusername/your-comments-repo"
+    repoId = "R_xxxxxxxxxxxxx"
+    category = "Announcements"
+    categoryId = "DIC_xxxxxxxxxxxxx"
+    lightTheme = "light"
+    darkTheme = "dark"
