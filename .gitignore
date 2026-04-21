@@ -2,6 +2,30 @@
 /public/
 /resources/
 
-# OS files
+# Hugo generated files
+/public/
+/resources/_gen/
+
+# Dependency directories
+/node_modules/
+
+# Hugo files
+/hugo_stats.json
+
+# OS generated files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local config (if you have one)
+hugo_local.toml
