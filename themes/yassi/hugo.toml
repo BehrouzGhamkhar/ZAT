@@ -1,20 +1,22 @@
-baseURL = 'https://example.org/'
+#baseURL = "https://BehrouzGhamkhar.github.io/zatrobotic/"
+baseURL = "https://localhost:1313/"
 languageCode = 'en-US'
 title = 'My New Hugo Site'
 
-[services]
-  [services.googleAnalytics]
-    ID = "G-XXXXXXXXXX"  # Your GA4 measurement ID
+#[services]
+#  [services.googleAnalytics]
+#    ID = "G-XXXXXXXXXX"  # Your GA4 measurement ID
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
 [params]
   CoverImage = '/images/cover_image.png'
-  
+  disableSectionMenus = true
+
   # Search
   enableSearch = false  # Enable/disable site search
-  
+
   # Timeline Starting Point (optional)
   # timelineStart = "🚀 And so it begins..."
   # timelineStartSubText = "Additional context or details..."
@@ -47,17 +49,14 @@ weight = 10
 [[menus.main]]
 name = 'Posts'
 pageRef = '/posts'
-weight = 20
+weight = 30
 
 [[menus.main]]
 name = 'Tags'
 pageRef = '/tags'
-weight = 30
-
-[[menus.main]]
-name = 'Projects'
-pageRef = '/projects'
 weight = 40
+
+
 
 [module]
   [module.hugoVersion]
