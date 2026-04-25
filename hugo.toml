@@ -38,11 +38,18 @@ theme = "yassi"
     youtube = "http://www.youtube.com/@ZAT-Rhein-Ruhr"
 
   # Giscus Comments (optional)
-  [params.giscus]
-    enabled = true
-    repo = "yourusername/your-comments-repo"
-    repoId = "R_xxxxxxxxxxxxx"
-    category = "Announcements"
-    categoryId = "DIC_xxxxxxxxxxxxx"
-    lightTheme = "light"
-    darkTheme = "dark"
+[params.giscus]
+  enabled = true
+  repo = "BehrouzGhamkhar/ZAT"
+  repoId = "R_kgDOSIxVlw"
+  category = "General"
+  categoryId = "DIC_kwDOSIxVl84C7rNu"
+  mapping = "pathname"  # How to map pages to discussions
+  strict = "0"  # Use strict title matching
+  reactionsEnabled = "1"  # Enable reactions for the main post
+  emitMetadata = "0"  # Emit discussion metadata
+  inputPosition = "bottom"  # Comment box position (top or bottom)
+  lightTheme = "light"  # Theme for light mode
+  darkTheme = "dark"  # Theme for dark mode
+  lang = "en"  # Language
+  loading = "lazy"  # Lazy load comments
