@@ -72,6 +72,7 @@ Configurable social media links with icons:
 - LinkedIn
 - Instagram
 - TikTok
+- YouTube
 - Snapchat
 
 Each icon features brand-specific hover colors.
