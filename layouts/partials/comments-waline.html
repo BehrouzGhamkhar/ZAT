@@ -1,0 +1,16 @@
+{{ if .Site.Params.waline.enabled }}
+<link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css" />
+<div id="waline"></div>
+<script type="module">
+  import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+  
+  init({
+    el: '#waline',
+    serverURL: '{{ .Site.Params.waline.serverURL }}',
+    path: '{{ .RelPermalink }}',
+    lang: 'en',
+    requiredMeta: ['nick'],  // Only name required!
+    placeholder: 'Leave a comment... (Name only, no login needed)'
+  });
+</script>
+{{ end }}

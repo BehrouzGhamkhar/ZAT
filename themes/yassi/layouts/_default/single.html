@@ -34,7 +34,15 @@
     {{ .Content }}
   </div>
 
-  {{ partial "giscus.html" . }}
+
+
+  {{ if .Site.Params.giscus.enabled }}
+    {{ partial "giscus.html" . }}
+  {{ end }}
+
+  {{ if .Site.Params.waline.enabled }}
+    {{ partial "comments-waline.html" . }}
+  {{ end }}
 </article>
 
 {{ end }}
