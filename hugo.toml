@@ -1,4 +1,4 @@
-baseURL = "https://BehrouzGhamkhar.github.io/zatrobotic/"
+baseURL = "https://BehrouzGhamkhar.github.io/"
 locale = 'en-us'
 title = 'ZAT Robotics'
 theme = "yassi"
@@ -39,7 +39,7 @@ theme = "yassi"
 
   # Giscus Comments (optional)
 [params.giscus]
-  enabled = false
+  enabled = true
   repo = "BehrouzGhamkhar/ZAT"
   repoId = "R_kgDOSIxVlw"
   category = "General"
@@ -55,5 +55,5 @@ theme = "yassi"
   loading = "lazy"  # Lazy load comments
 
 [params.waline]
-  enabled = true
+  enabled = false
   serverURL = "https://waline-gtfg5gjev-behrouzghamkhars-projects.vercel.app"  # Your deployed URL
