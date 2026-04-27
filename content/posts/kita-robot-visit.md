@@ -11,7 +11,7 @@ featured = true
 
 On March 18, 2026, we invited **two kindergarten groups** to our labs in Kamp-Lintfort. The goal: bring research closer to children – and learn from them.
 
-![Children watching a robot demonstration](/images/posts/kindergarten.jfif)
+![Children watching a robot demonstration](images/posts/kindergarten.jfif)
 
 ## What Happened
 

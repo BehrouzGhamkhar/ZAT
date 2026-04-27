@@ -14,7 +14,7 @@ showInPostList = false
 
 We install and test **ambient sensor systems** in real apartments. No cameras, no microphones – only motion, door, and temperature sensors.
 
-![Smart home sensor setup diagram](/images/projects/smart_sensors.jpg)
+![Smart home sensor setup diagram](images/projects/smart_sensors.jpg)
 
 ## What the System Does
 

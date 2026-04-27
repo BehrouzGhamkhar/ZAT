@@ -14,7 +14,7 @@ showInPostList = true
 
 QTrobot is a small expressive humanoid robot designed to help children with autism and other special needs. It combines **evidence-based educational methods** with engaging, predictable interactions.
 
-![QTrobot working with a child](/images/projects/qtrobot.jfif)
+![QTrobot working with a child](images/projects/qtrobot.jfif)
 
 ## What We Do at ZAT
 
