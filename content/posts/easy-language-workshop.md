@@ -11,7 +11,7 @@ featured = true
 
 Together with **Lebenshilfe Kreis Kleve**, ZAT organized a 2.5‑hour workshop about **Easy Language** (Einfache Sprache). Location: Campus Kleve.
 
-![Group workshop with participants](images/posts/easy_language.jpg)
+![Group workshop with participants](/zatrobotics/images/posts/easy_language.jpg)
 
 
 ## What We Did

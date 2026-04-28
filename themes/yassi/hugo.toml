@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = "https://BehrouzGhamkhar.github.io/zatrobotics"
 languageCode = 'en-US'
 title = 'My New Hugo Site'
 
@@ -10,7 +10,7 @@ title = 'My New Hugo Site'
   home = ["HTML", "RSS", "JSON"]
 
 [params]
-  CoverImage = '/images/cover_image.png'
+  CoverImage = '/zatrobotic/images/cover_image.png'
   
   # Search
   enableSearch = false  # Enable/disable site search

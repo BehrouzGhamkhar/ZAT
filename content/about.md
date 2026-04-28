@@ -9,7 +9,7 @@ layout: "about"
 
 We develop, test, and promote **assistive technologies** that help people with disabilities, elderly individuals, and care professionals.
 
-![Team working with a robot](/images/ZAT_team.jpg)
+![Team working with a robot](/zatrobotics/images/ZAT_team.jpg)
 
 ## Our Mission
 

@@ -6,7 +6,7 @@ theme = "yassi"
 buildFuture = true
 
 [params]
-  CoverImage = "/images/avatar.svg"
+  CoverImage = "/zatrobotic/images/avatar.svg"
   CoverImageWidth = 150
   
   # Theme Colors
