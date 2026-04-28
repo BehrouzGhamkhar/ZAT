@@ -6,7 +6,7 @@ tags = ["robot", "care", "elderly", "ai"]
 categories = ["Projects"]
 weight = 2
 # featured = true
-main_image = "/images/projects/pepper.jfif"
+main_image = "/zatrobotics/images/projects/pepper.jfif"
 showInPostList = false
 +++
 

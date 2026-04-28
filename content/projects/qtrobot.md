@@ -6,7 +6,7 @@ tags = ["robot", "education", "autism"]
 categories = ["Projects"]
 weight = 1
 # featured = true
-main_image = "/images/projects/qtrobot.jfif"
+main_image = "/zatrobotics/images/projects/qtrobot.jfif"
 showInPostList = true
 +++
 
