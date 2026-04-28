@@ -6,7 +6,7 @@ tags = ["sensors", "iot", "independent-living", "care"]
 categories = ["Projects"]
 weight = 3
 # featured = false
-main_image = "zatrobotics/images/projects/smart_sensors.jpg"
+main_image = "/zatrobotics/images/projects/smart_sensors.jpg"
 showInPostList = false
 +++
 
