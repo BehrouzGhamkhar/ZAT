@@ -6,7 +6,7 @@ tags = ["robot", "care", "elderly", "ai"]
 categories = ["Projects"]
 weight = 2
 # featured = true
-main_image = "/zatrobotics/images/projects/pepper.jfif"
+main_image = "/images/projects/pepper.jfif"
 showInPostList = false
 +++
 
@@ -14,7 +14,7 @@ showInPostList = false
 
 Pepper is a semi-humanoid robot capable of recognizing faces, emotions, and engaging in natural conversation. It’s used in **care homes, hospitals, and public spaces**.
 
-![Pepper robot talking to a senior](/zatrobotics/images/projects/pepper.jfif)
+![Pepper robot](/images/projects/pepper.jfif)
 
 ## ZAT Research Areas
 
