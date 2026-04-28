@@ -8,7 +8,7 @@ theme = "yassi"
 #    ID = "G-XXXXXXXXXX"  # Your GA4 measurement ID
 
 [params]
-  CoverImage = "/images/avatar.svg"  # or your own image
+  CoverImage = "/ZAT/images/avatar.svg"  # or your own image
   CoverImageWidth = 150
 
   # Theme Colors
