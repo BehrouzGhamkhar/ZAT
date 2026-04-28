@@ -45,7 +45,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://BehrouzGhamkhar.github.io/zatrobotics/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

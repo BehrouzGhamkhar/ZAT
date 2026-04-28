@@ -1,4 +1,4 @@
-baseURL = "https://BehrouzGhamkhar.github.io/zatrobotic/"
+baseURL = "https://BehrouzGhamkhar.github.io/zatrobotics/"
 languageCode = "en-us"
 title = "Yassi Theme Example"
 theme = "yassi"
@@ -6,7 +6,7 @@ theme = "yassi"
 buildFuture = true
 
 [params]
-  CoverImage = "images/avatar.svg"
+  CoverImage = "/zatrobotics/images/avatar.svg"
   CoverImageWidth = 150
   
   # Theme Colors
