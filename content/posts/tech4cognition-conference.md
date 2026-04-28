@@ -11,7 +11,7 @@ featured = false
 
 Our first **tech4cognition** conference brought together researchers, care professionals, tech companies, and people with disabilities.
 
-![Conference audience and presenter](/zatrobotics/images/posts/tech4cognition.jpg)
+![Conference audience and presenter](/ZAT/images/posts/tech4cognition.jpg)
 
 ## Highlights
 

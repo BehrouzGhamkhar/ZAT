@@ -10,7 +10,7 @@ title = 'My New Hugo Site'
   home = ["HTML", "RSS", "JSON"]
 
 [params]
-  CoverImage = '/zatrobotics/images/cover_image.png'
+  CoverImage = '/ZAT/images/cover_image.png'
   
   # Search
   enableSearch = false  # Enable/disable site search

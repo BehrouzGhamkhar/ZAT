@@ -6,7 +6,7 @@ tags = ["sensors", "iot", "independent-living", "care"]
 categories = ["Projects"]
 weight = 3
 # featured = false
-main_image = "/zatrobotics/images/projects/smart_sensors.jpg"
+main_image = "/ZAT/images/projects/smart_sensors.jpg"
 showInPostList = false
 +++
 
@@ -14,7 +14,7 @@ showInPostList = false
 
 We install and test **ambient sensor systems** in real apartments. No cameras, no microphones – only motion, door, and temperature sensors.
 
-![Smart home sensor setup diagram](/zatrobotics/images/projects/smart_sensors.jpg)
+![Smart home sensor setup diagram](/ZAT/images/projects/smart_sensors.jpg)
 
 ## What the System Does
 
