@@ -14,7 +14,7 @@ showInPostList = false
 
 Pepper is a semi-humanoid robot capable of recognizing faces, emotions, and engaging in natural conversation. It’s used in **care homes, hospitals, and public spaces**.
 
-![Pepper robot](/images/projects/pepper.jfif)
+![Pepper robot talking to a senior](/images/projects/pepper.jfif)
 
 ## ZAT Research Areas
 

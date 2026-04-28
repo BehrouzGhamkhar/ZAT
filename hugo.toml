@@ -1,4 +1,4 @@
-baseURL = "https://BehrouzGhamkhar.github.io/zatrobotics/"
+baseURL = "https://BehrouzGhamkhar.github.io/zatrobotics"
 locale = 'en-us'
 title = 'ZAT Robotics'
 theme = "yassi"

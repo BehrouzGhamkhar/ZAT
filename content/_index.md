@@ -6,7 +6,7 @@ title: "ZAT Rhein-Ruhr"
 
 The **Zentrum für Assistive Technologien Rhein-Ruhr** develops smart, ethical, and practical assistive solutions. We connect research with real life – from robots in kindergartens to sensors in private homes.
 
-![Robot interacting with a child](/zatrobotics/images/zat_logo.png)
+![Robot interacting with a child](/images/zat_logo.png)
 
 ## What's New
 

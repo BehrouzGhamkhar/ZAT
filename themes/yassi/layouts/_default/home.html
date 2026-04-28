@@ -3,7 +3,7 @@
 <div class="content">
   <div align="center">
     <div class="cover-content">
-      <img width="{{ site.Params.CoverImageWidth }}" class="cover-image" src="{{ site.Params.CoverImage }}" />
+      <img width="{{ site.Params.CoverImageWidth }}" class="cover-image" src="{{ site.Params.CoverImage | relURL}}" />
       <div class="cover-intro">
         {{ .Content }}
       </div>
